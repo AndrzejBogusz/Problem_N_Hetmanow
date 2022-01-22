@@ -21,8 +21,10 @@ Funkcje:
    * Generowanie planszy w zależności od rozmiaru
    * Funkcje testująca ustawiająca losowo hetmanów / królowych
    * Wykonywanie algorytmu :
+
       * Natyczmiastowe z pokazaniem czasu wykonania w ms.
       * Wykonywanie algorytmu na żywo poprzez ustawienie opcji szybkości wyświetlania.
+
    * Możliwość zmiany rozmiaru planszy   
      
     
