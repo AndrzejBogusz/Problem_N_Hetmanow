@@ -19,10 +19,10 @@ Możliwość wykonywania rozwiązań za pomocą algorytmów:
 Funkcje:
    
    * Generowanie planszy w zależności od rozmiaru
-   * Funkcje testująca ustawiająca losowo hetmanów / królowych
+   * Funkcje testująca ustawiająca losowo hetmanów
    * Wykonywanie algorytmu :
 
-      * Natyczmiastowe z pokazaniem czasu wykonania w ms.
+      * Natychmiastowe z pokazaniem czasu wykonania w ms.
       * Wykonywanie algorytmu na żywo poprzez ustawienie opcji szybkości wyświetlania.
 
    * Możliwość zmiany rozmiaru planszy   
